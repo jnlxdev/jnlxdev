@@ -10,11 +10,11 @@ Yo! I'm a **full-stack developer** based in 📍 **Philippines** who loves turni
 
 By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably exploring side projects, watching tech talks, or losing sleep over a bug that turns out to be a missing semicolon.
 
-- 🔭 Currently working on: **a productivity app nobody asked for but everyone needs**
-- 🌱 Currently learning: **Rust** (send help)
+- 🔭 Currently working on: **In house Company CRM**
+- 🌱 Currently learning: **Python** (send help)
 - 👯 Looking to collaborate on: open source projects & anything that sounds fun
 - 💬 Ask me about: React, Node.js, databases, or why tabs > spaces
-- ⚡ Fun fact: I've named all my dev branches after One Piece characters
+- ⚡ Fun fact: I do a lot of MVP that is not publish hope it will publish one day
 
 ---
 
@@ -27,16 +27,17 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
+![PHP](https://img.shields.io/badge/-php-47A248?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/-mysql-4169E1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & Others**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-Xampp-2496ED?style=flat-square&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FCC624?style=flat-square&logo=postman&logoColor=black)
 
 ---
 
