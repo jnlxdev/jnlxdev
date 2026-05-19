@@ -43,12 +43,12 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexrivera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrivera&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jnlxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnlxdev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexrivera&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jnlxdev&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -57,9 +57,9 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🗂️ [TaskFlow](https://github.com/alexrivera/taskflow) | A Kanban board with real-time sync | React, Socket.io, Express |
-| 🌦️ [WeatherBuddy](https://github.com/alexrivera/weatherbuddy) | Weather app with sarcastic commentary | Next.js, OpenWeather API |
-| 📖 [DevLog](https://github.com/alexrivera/devlog) | Minimal blog engine for devs | Node.js, MongoDB, EJS |
+| 🗂️ [TaskFlow](https://github.com/jnlxdev/taskflow) | A Kanban board with real-time sync | React, Socket.io, Express |
+| 🌦️ [WeatherBuddy](https://github.com/jnlxdev/weatherbuddy) | Weather app with sarcastic commentary | Next.js, OpenWeather API |
+| 📖 [DevLog](https://github.com/jnlxdev/devlog) | Minimal blog engine for devs | Node.js, MongoDB, EJS |
 
 ---
 
@@ -77,15 +77,14 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 
 I don't bite — unless you push directly to main without a PR 😤
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexrivera)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alexrivera_dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4154?style=flat-square&logo=firefox&logoColor=white)](https://alexrivera.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alex@alexrivera.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonel-azul-67b078252/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4154?style=flat-square&logo=firefox&logoColor=white)](https://jonel-webfolio.site)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tenstois@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexrivera&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jnlxdev&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by! Drop a ⭐ on something if it helped you out 🙏</i></p>
