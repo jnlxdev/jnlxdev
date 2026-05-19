@@ -52,7 +52,6 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 </p> 
 
 --- 
--->
 
 ## 🚀 Featured Projects
 
@@ -73,6 +72,8 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 - [ ] Write a blog post that isn't abandoned after the intro
 
 ---
+
+-->
 
 ## 📬 Let's Connect!
 
