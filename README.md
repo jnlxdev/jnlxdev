@@ -1,12 +1,12 @@
-# Hey there! I'm **Alex Rivera** 👋🏽
+# Hey there! I'm **Jonel** 👋🏽
 
-> *"Code is poetry, bugs are just plot twists."*
+> *"Fail it, till you make it"*
 
 ---
 
 ## 🧑🏽‍💻 About Me
 
-Yo! I'm a **full-stack developer** based in 📍 **Manila, Philippines** who loves turning caffeine into code (and occasionally turning code into chaos 😅).
+Yo! I'm a **full-stack developer** based in 📍 **Philippines** who loves turning caffeine into code (and occasionally turning code into chaos 😅).
 
 By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably exploring side projects, watching tech talks, or losing sleep over a bug that turns out to be a missing semicolon.
 
@@ -40,7 +40,7 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jnlxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -49,7 +49,7 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jnlxdev&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+</p> -->
 
 ---
 
