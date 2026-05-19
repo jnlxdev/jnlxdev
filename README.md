@@ -49,9 +49,10 @@ By day, I'm wrangling APIs and making pixel-perfect UIs. By night, I'm probably 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jnlxdev&theme=tokyonight&hide_border=true" width="60%" />
-</p> -->
+</p> 
 
----
+--- 
+-->
 
 ## 🚀 Featured Projects
 
